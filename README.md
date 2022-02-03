@@ -1,4 +1,4 @@
-### 🟠 Skills
+### Skills
 
 #### **Front-End**
 
