@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&text=Hello&desc=Im%20uhjee&fontSize=40&fontColor=f06909&descAlign=63&height=70" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=f06909&section=header&text=Hello&desc=Im%20uhjee&fontSize=40&fontColor=ffffff&descAlign=63&height=70" />
 
 
 ### Skills
