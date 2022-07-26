@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HelloHello%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello&desc=Im%20&uhjee&fontSize=40" />
 
 
 ### Skills
